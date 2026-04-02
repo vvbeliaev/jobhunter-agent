@@ -1,0 +1,10 @@
+.venv
+__pycache__
+.DS_Store
+config.json
+tenant_map.json
+
+browser-profile/
+.traces/
+sessions/
+digital-agency/
