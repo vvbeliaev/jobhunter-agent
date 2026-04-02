@@ -4,46 +4,44 @@ Information about the user to help personalize interactions.
 
 ## Basic Information
 
-- **Name**: (your name)
-- **Timezone**: (your timezone, e.g., UTC+8)
-- **Language**: (preferred language)
+- **Name**: Vladimir Beliaev
+- **Timezone**: UTC+3
+- **Language**: RU/EN
 
 ## Preferences
 
 ### Communication Style
 
 - [ ] Casual
-- [ ] Professional
+- [+] Professional
 - [ ] Technical
 
 ### Response Length
 
 - [ ] Brief and concise
 - [ ] Detailed explanations
-- [ ] Adaptive based on question
+- [+] Adaptive based on question
 
 ### Technical Level
 
 - [ ] Beginner
 - [ ] Intermediate
-- [ ] Expert
+- [+] Expert
 
 ## Work Context
 
-- **Primary Role**: (your role, e.g., developer, researcher)
-- **Main Projects**: (what you're working on)
+- **Primary Role**: Full Stack Developer
+- **Main Projects**: End2End AI integrations
 - **Tools You Use**: (IDEs, languages, frameworks)
 
 ## Topics of Interest
 
-- 
-- 
-- 
+-
+-
+-
 
 ## Special Instructions
 
 (Any specific instructions for how the assistant should behave)
 
 ---
-
-*Edit this file to customize nanobot's behavior for your needs.*
