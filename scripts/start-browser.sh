@@ -1,7 +1,7 @@
 #!/bin/bash
 # Запускает Brave с профилем digital-agency на порту 19900
 
-PROFILE_DIR="$(cd "$(dirname "$0")/.." && pwd)/.nanobot/digital-agency/browser-profile"
+PROFILE_DIR="$(cd "$(dirname "$0")/.." && pwd)/.nanobot/browser-profile"
 PORT=19900
 
 # Проверяем не запущен ли уже

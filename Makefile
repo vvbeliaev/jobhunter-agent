@@ -7,4 +7,4 @@ browser:
 	bash scripts/start-browser.sh
 
 run:
-	uv run nanobot gateway --config ./.nanobot/workspace/config.json
+	uv run nanobot gateway --config ./.nanobot/config.json
