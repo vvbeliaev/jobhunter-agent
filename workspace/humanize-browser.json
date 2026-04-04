@@ -1,5 +1,5 @@
 {
-  "profile_dir": "browser-profile",
+  "profile_dir": "../browser-profile",
   "session": "job-hunter",
   "headed": true,
   "humanize": true
